@@ -1,0 +1,8 @@
+edu\bu\met\cs665\customer\data\CustomerDataFromHttpsServer.class
+edu\bu\met\cs665\interfaces\CustomerData.class
+edu\bu\met\cs665\models\Customer.class
+edu\bu\met\cs665\customer\data\CustomerDatabase.class
+edu\bu\met\cs665\interfaces\CustomerDataOverHttps.class
+edu\bu\met\cs665\models\Gender.class
+edu\bu\met\cs665\models\Company.class
+edu\bu\met\cs665\customer\data\CustomerDatabaseUsbToHttpsAdapter.class
